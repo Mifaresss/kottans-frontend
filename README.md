@@ -36,3 +36,29 @@
 
 ### HTTP:  
 Сложновато, материал усвоен плоховато. Но когда он мне действительно понадобится, уделю его изучению больше времени. Сейчас считаю это не особо нужным.
+
+## Git Collaboration
+Не перестаю удивляться возможностям гита. Кажется, что с ним возможно все) Но все-таки сложновато все понимать, нужно больше практики. А курс как-то быстро идет, не выходит нормально уделить времени данной теме.
+
+<details>
+<summary>Week 3</summary>
+
+![week 3](./task_git_collaboration/week3.jpg)
+</details>
+<details>
+<summary>Week 4</summary>
+
+![week 4](./task_git_collaboration/week4.jpg)
+</details>  
+
+### learngitbranching.js.org
+<details>
+<summary>Основи: Їдемо далі, Переміщуємо роботу туди-сюди</summary>
+
+![Їдемо далі, Переміщуємо роботу туди-сюди](./task_git_collaboration/learngitbranch-basics.jpg)
+</details>
+<details>
+<summary>Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes</summary>
+
+![Віддалені репозиторії: Через origin – до зірок](./task_git_collaboration/learngitbranch-origin.jpg)
+</details>
