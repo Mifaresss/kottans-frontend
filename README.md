@@ -62,3 +62,23 @@
 
 ![Віддалені репозиторії: Через origin – до зірок](./task_git_collaboration/learngitbranch-origin.jpg)
 </details>
+
+## Intro to HTML and CSS
+Вообще с данными технологиями я уже достаточно хорошо знаком, и если честно, думал что не узнаю абсолютно ничего нового. Но даже так, я узнал некоторые прикольные штучки, по типу: https://skr.sh/sFHWV04zL6j, https://skr.sh/sFJfsQ2weGe. Возникает чувство: "А что, так можно было?!"))) Не знаю, буду ли я в будущем использовать такой синтаксис, но все же, это интересно.
+<details>
+<summary>Скриншот первой недели</summary>
+
+![Скриншот первой недели](./task_html_css_intro/Introduction-to-HTML5-Coursera.png)
+</details>
+<details>
+<summary>Скриншот второй недели</summary>
+
+![Скриншот второй недели](./task_html_css_intro/Introduction-to-HTML-CSS-week-2.png)
+</details>
+
+### Практика HTML & CSS:
+<details>
+<summary>Курсы пройдены</summary>
+
+![Первый и второй курсы](./task_html_css_intro/LearnCSS%26HTML.jpg)
+</details>
