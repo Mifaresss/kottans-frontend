@@ -2,12 +2,12 @@
 
 ## Git Basics
 Очень рад что познакомился с Гитом. Ранее не сталкивался с ним. При верстке, для тестов чего-нибудь создавал отдельные папки с файлами, что было очень не удобно. После изучения основ работы с Git, я понимаю: достаточно просто создать ветку проекта для какого-нибудь теста, это очень круто!  
-[screenshot first week](https://skr.sh/sFDuALBDqMr)  
-[screenshot second week](https://skr.sh/sFDHYLHtKcJ)  
+Cкриншот первой недели: [https://skr.sh/sFDuALBDqMr](https://skr.sh/sFDuALBDqMr).  
+Скриншот второй недели: [https://skr.sh/sFDHYLHtKcJ](https://skr.sh/sFDHYLHtKcJ).  
 
 ### learngitbranching.js.org
-Основи: Introduction Sequence: [https://skr.sh/sFDlkvrcAuY](https://skr.sh/sFDlkvrcAuY)  
-Віддалені репозиторії: Push & Pull: [https://skr.sh/sFDp6mpqaho](https://skr.sh/sFDp6mpqaho)
+Основи: Introduction Sequence: [https://skr.sh/sFDlkvrcAuY](https://skr.sh/sFDlkvrcAuY).  
+Віддалені репозиторії: Push & Pull: [https://skr.sh/sFDp6mpqaho](https://skr.sh/sFDp6mpqaho).  
 
 ## Linux CLI, and HTTP
 ### Linux:  
@@ -41,12 +41,12 @@
 Не перестаю удивляться возможностям гита. Кажется, что с ним возможно все) Но все-таки сложновато все понимать, нужно больше практики. А курс как-то быстро идет, не выходит нормально уделить времени данной теме. Обязательно вернусь к данному материалу позже.
 
 <details>
-<summary>Week 3</summary>
+<summary>Неделя 3</summary>
 
 ![week 3](./task_git_collaboration/week3.jpg)
 </details>
 <details>
-<summary>Week 4</summary>
+<summary>Неделя 4</summary>
 
 ![week 4](./task_git_collaboration/week4.jpg)
 </details>  
@@ -81,4 +81,18 @@
 <summary>Курсы пройдены</summary>
 
 ![Первый и второй курсы](./task_html_css_intro/LearnCSS%26HTML.jpg)
+</details>
+
+## Responsive Web Design
+С адаптивным дизайном был знаком, но, как говорится: "Повторение — мать учения". С технологией Flexbox я также "на 'ты'". А вот Grid Layout был для меня новой технологией. Но тем не менее игру на портале я прошел легко, да и Женя очень хорошо объясняет).  
+Бесспорно все буду использовать в будущем, так так технологии актуальны и практичны.
+<details>
+<summary>Скриншот прохождения Flex Froggy</summary>
+
+![Flex Froggy](./task_responsive_web_design/FlexFroggyDone.jpg)
+</details>
+<details>
+<summary>Скриншот прохождения Grid Garden</summary>
+
+![Grid Garden](./task_responsive_web_design/GridGardenDone.jpg)
 </details>
