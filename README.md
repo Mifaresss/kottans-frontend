@@ -96,3 +96,7 @@ Cкриншот первой недели: [https://skr.sh/sFDuALBDqMr](https://
 
 ![Grid Garden](./task_responsive_web_design/GridGardenDone.jpg)
 </details>
+
+## HTML & CSS; task "PopUp"
+Это было довольно интересно, мне бы и в голову не пришло что добавить такой интерактив настолько просто. Не нужен никакой JS — всего лишь инпут-чекбокс))  
+Ссылка на результат: [https://mifaresss.github.io/HTML-CSS-Popup/](https://mifaresss.github.io/HTML-CSS-Popup/).
