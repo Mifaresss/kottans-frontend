@@ -100,3 +100,28 @@ Cкриншот первой недели: [https://skr.sh/sFDuALBDqMr](https://
 ## HTML & CSS; task "PopUp"
 Это было довольно интересно, мне бы и в голову не пришло что добавить такой интерактив настолько просто. Не нужен никакой JS — всего лишь инпут-чекбокс))  
 Ссылка на результат: [https://mifaresss.github.io/HTML-CSS-Popup/](https://mifaresss.github.io/HTML-CSS-Popup/).
+
+
+## JS Basics
+Фууух, наконец-то. Пока что это была самая сложная часть курса. Очень много новой информации, которая при этом еще и на уровень выше прошлой. Ну, в общем, база получена, хотя "сыровата" пока что(. Много заданий решить самому не удалось, пришлось пользоваться подсказками...  
+Скриншоты: 
+
+<details>
+<summary>Basic JavaScript  &  ES6 Challenges</summary>
+
+![Basic JavaScript & ES6 Challenges](./task_js_basics/BasicJS-ES6.jpg)
+</details>
+
+
+<details>
+<summary>Basic Data Structures  &  Basic Algorithm Scripting</summary>
+
+![Basic Data Structures  &  Basic Algorithm Scripting](./task_js_basics/BasicDataStructures-BasicAlgorithmScript.jpg)
+</details>
+
+
+<details>
+<summary>Functional Programming  &  Algorithm Scripting Challenges</summary>
+
+![Functional Programming  &  Algorithm Scripting Challenges](./task_js_basics/FunctionalProgramming-IntermefiateAlgorithm.jpg)
+</details>
