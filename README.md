@@ -2,6 +2,7 @@
 
 <details>
 <summary><h2>Git Basics</h2></summary>
+
 Очень рад что познакомился с Гитом. Ранее не сталкивался с ним. При верстке, для тестов чего-нибудь создавал отдельные папки с файлами, что было очень не удобно. После изучения основ работы с Git, я понимаю: достаточно просто создать ветку проекта для какого-нибудь теста, это очень круто!<br>
 Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 Скриншот второй недели: https://skr.sh/sFDHYLHtKcJ.  
@@ -110,7 +111,9 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 
 <details>
 <summary><h2>HTML & CSS; task "PopUp"</h2></summary>
+
 Это было довольно интересно, мне бы и в голову не пришло что добавить такой интерактив настолько просто. Не нужен никакой JS — всего лишь инпут-чекбокс))<br>
+PR: https://github.com/kottans/frontend-2022-homeworks/pull/116.<br>
 Ссылка на результат: https://mifaresss.github.io/HTML-CSS-Popup/.<br>
 Репозиторий с файлами: https://github.com/Mifaresss/HTML-CSS-Popup.
 </details>
@@ -157,17 +160,41 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 </details>  
   
 ### Практическое задание
-Само меню: https://mifaresss.github.io/side-menu-js-dom-kottans/.  
+PR: https://github.com/kottans/frontend-2022-homeworks/pull/410.<br>
+Само меню: https://mifaresss.github.io/side-menu-js-dom-kottans/.<br>
 Репозиторий с файлами: https://github.com/Mifaresss/side-menu-js-dom-kottans/.
 </details>
 
 <details>
-<summary><h2>Object Oriented JS</h2></summary>
+<summary><h2>Building a Tiny JS World (pre-OOP)</h2></summary>
+
+PR: https://github.com/kottans/frontend-2022-homeworks/pull/431.
+</details>
+
+<details>
+<summary><h2>Object Oriented JS (Frogger)</h2></summary>
+
 ООП — это круто. В будущем планирую работать в команде разработчиков, поэтому уверен, что мне это пригодится.<br>
 Ссылка на профиль Codewars: https://www.codewars.com/users/Mifares  
 
 ### Игра "Frogger"
+PR: https://github.com/kottans/frontend-2022-homeworks/pull/456.<br>
 Ссылка на игру: https://mifaresss.github.io/frontend-nanodegree-arcade-game/.<br>
 Репозиторий с файлами: https://github.com/Mifaresss/frontend-nanodegree-arcade-game.
+</details>
 
+<details>
+<summary><h2>OOP exercise (TJW)</h2></summary>
+
+PR: https://github.com/kottans/frontend-2022-homeworks/pull/580.<br>
+Tiny JS World: https://mifaresss.github.io/a-tiny-JS-world/.<br>
+Репозиторий с файлами: https://github.com/Mifaresss/a-tiny-JS-world.
+</details>
+
+<details>
+<summary><h2>Memory Pair Game</h2></summary>
+
+PR: https://github.com/kottans/frontend-2022-homeworks/pull/596.<br>
+Игра: https://mifaresss.github.io/memory-pair-game/.<br>
+Репозиторий с файлами: https://github.com/Mifaresss/memory-pair-game.
 </details>
