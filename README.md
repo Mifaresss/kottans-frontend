@@ -1,12 +1,11 @@
 # Привет всем!)
 
 <details>
-<summary><h3>Git Basics</h3></summary>
+<summary>0. Git Basics</summary>
 
 Очень рад что познакомился с Гитом. Ранее не сталкивался с ним. При верстке, для тестов чего-нибудь создавал отдельные папки с файлами, что было очень не удобно. После изучения основ работы с Git, я понимаю: достаточно просто создать ветку проекта для какого-нибудь теста, это очень круто!<br>
 Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 Скриншот второй недели: https://skr.sh/sFDHYLHtKcJ.  
-
 ### learngitbranching.js.org
 Основи: Introduction Sequence — https://skr.sh/sFDlkvrcAuY.  
 Віддалені репозиторії: Push & Pull — https://skr.sh/sFDp6mpqaho.
@@ -14,7 +13,7 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 
 
 <details>
-<summary><h2>Linux CLI, and HTTP</h2></summary>
+<summary>1. Linux CLI, and HTTP</summary>
 
 ### Linux:  
 В общем-то не особо понимаю зачем мне вообще нужна была данная информация. У меня терминал Git Bash встроен в редактор и переход между папками и пр. действия я осуществляю прямо в IDE)
@@ -45,7 +44,7 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 </details>
 
 <details>
-<summary><h3>Git Collaboration</h3></summary>
+<summary>2. Git Collaboration</summary>
 Не перестаю удивляться возможностям гита. Кажется, что с ним возможно все) Но все-таки сложновато все понимать, нужно больше практики. А курс как-то быстро идет, не выходит нормально уделить времени данной теме. Обязательно вернусь к данному материалу позже.<br>
 <details>
 <summary>Неделя 3</summary>
@@ -72,7 +71,7 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 </details>
 
 <details>
-<summary><h3>Intro to HTML and CSS</h3></summary>
+<summary>3. Intro to HTML and CSS</summary>
 Вообще с данными технологиями я уже достаточно хорошо знаком, и если честно, думал что не узнаю абсолютно ничего нового. Но даже так, я узнал некоторые прикольные штучки, по типу: https://skr.sh/sFHWV04zL6j, https://skr.sh/sFJfsQ2weGe. Возникает чувство: "А что, так можно было?!"))) Не знаю, буду ли я в будущем использовать такой синтаксис, но все же, это интересно.
 <details>
 <summary>Скриншот первой недели</summary>
@@ -94,7 +93,7 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 </details>
 
 <details>
-<summary><h3>Responsive Web Design</h3></summary>
+<summary>4. Responsive Web Design</summary>
 С адаптивным дизайном был знаком, но, как говорится: "Повторение — мать учения". С технологией Flexbox я также "на 'ты'". А вот Grid Layout был для меня новой технологией. Но тем не менее игру на портале я прошел легко, да и Женя очень хорошо объясняет).  
 Бесспорно все буду использовать в будущем, так так технологии актуальны и практичны.
 <details>
@@ -110,7 +109,7 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 </details>
 
 <details>
-<summary><h3>HTML & CSS; task "PopUp"</h3></summary>
+<summary>5. HTML & CSS Practice (PopUp)</summary>
 
 Это было довольно интересно, мне бы и в голову не пришло что добавить такой интерактив настолько просто. Не нужен никакой JS — всего лишь инпут-чекбокс))<br>
 PR: https://github.com/kottans/frontend-2022-homeworks/pull/116.<br>
@@ -119,7 +118,7 @@ PR: https://github.com/kottans/frontend-2022-homeworks/pull/116.<br>
 </details>
 
 <details>
-<summary><h3>JS Basics</h3></summary>
+<summary>6. JS Basics</summary>
 Фууух, наконец-то. Пока что это была самая сложная часть курса. Очень много новой информации, которая при этом еще и на уровень выше прошлой. Ну, в общем, база получена, хотя "сыровата" пока что(.<br>
 Скриншоты: 
 
@@ -145,7 +144,7 @@ PR: https://github.com/kottans/frontend-2022-homeworks/pull/116.<br>
 </details>
 
 <details>
-<summary><h3>DOM</h3></summary>
+<summary>7. DOM</summary>
 Наконеец-тоо. Во время изучения основ JS постоянно возникало желание побыстрей перейти к изучению взаимодействия JS с HTML, и вот, добрался до сюда😊. Теперь я могу полноценно использовать JS в своих проектах😎.
 <details>
 <summary>DOM Manipulation (coursera)</summary>
@@ -166,13 +165,13 @@ PR: https://github.com/kottans/frontend-2022-homeworks/pull/410.<br>
 </details>
 
 <details>
-<summary><h3>Building a Tiny JS World (pre-OOP)</h3></summary>
+<summary>8. Building a Tiny JS World (pre-OOP)</summary>
 
 PR: https://github.com/kottans/frontend-2022-homeworks/pull/431.
 </details>
 
 <details>
-<summary><h3>Object Oriented JS (Frogger)</h3></summary>
+<summary>9. Object Oriented JS (Frogger)</summary>
 
 ООП — это круто. В будущем планирую работать в команде разработчиков, поэтому уверен, что мне это пригодится.<br>
 Ссылка на профиль Codewars: https://www.codewars.com/users/Mifares  
@@ -184,7 +183,7 @@ PR: https://github.com/kottans/frontend-2022-homeworks/pull/456.<br>
 </details>
 
 <details>
-<summary><h3>OOP exercise (TJW)</h3></summary>
+<summary>10. OOP exercise (TJW)</summary>
 
 PR: https://github.com/kottans/frontend-2022-homeworks/pull/580.<br>
 Tiny JS World: https://mifaresss.github.io/a-tiny-JS-world/.<br>
@@ -192,7 +191,7 @@ Tiny JS World: https://mifaresss.github.io/a-tiny-JS-world/.<br>
 </details>
 
 <details>
-<summary><h3>Memory Pair Game</h3></summary>
+<summary>11. Memory Pair Game</summary>
 
 PR: https://github.com/kottans/frontend-2022-homeworks/pull/596.<br>
 Игра: https://mifaresss.github.io/memory-pair-game/.<br>
@@ -200,7 +199,7 @@ PR: https://github.com/kottans/frontend-2022-homeworks/pull/596.<br>
 </details>
 
 <details>
-<summary><h3>Friends App</h3></summary>
+<summary>12. Friends App</summary>
 
 PR: https://github.com/kottans/frontend-2022-homeworks/pull/693.<br>
 Friends App: https://mifaresss.github.io/friends-app/.<br>
