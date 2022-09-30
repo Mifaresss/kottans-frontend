@@ -113,8 +113,8 @@ Cкриншот первой недели: https://skr.sh/sFDuALBDqMr.<br>
 
 Это было довольно интересно, мне бы и в голову не пришло что добавить такой интерактив настолько просто. Не нужен никакой JS — всего лишь инпут-чекбокс))<br>
 PR: https://github.com/kottans/frontend-2022-homeworks/pull/116.<br>
-Ссылка на результат: https://mifaresss.github.io/HTML-CSS-Popup/.<br>
-Репозиторий с файлами: https://github.com/Mifaresss/HTML-CSS-Popup.
+Ссылка на результат: https://mifaresss.github.io/html-css-popup/.<br>
+Репозиторий с файлами: https://github.com/Mifaresss/html-css-popup.
 </details>
 
 <details>
